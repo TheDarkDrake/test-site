@@ -1,21 +1,20 @@
-
 body {
-  background-image: url("bg-3.jpg");
-}h1 {
-  color: yellow;
-  width: 1256px;
-  border: 5px solid orange;
-  text-shadow: 5px 5px 3px #77f;
-}
-p {
-  color: red;
-  width: 500px;
-  border: 1px solid black;
-}
-ul {
-   color:#DA4AE7;
+  background-image: url("bg-3.jpg")
 }
 a:hover {
-        color: #d516f2;
+        color: olivedrab;
         text-shadow: 4px 4px 3px;
+}
+html {
+  font-size: 45px; 
+  font-family: 'Allison', cursive;
+}
+html {
+  color: orangered;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
 }
